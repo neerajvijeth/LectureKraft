@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+outputs/
+.env
+.DS_Store
+
+# Frontend (Part 3)
+frontend/node_modules/
+frontend/dist/
